@@ -1,0 +1,11 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1407
+
+This is a low saturation/dull version of my desertedocean color scheme. I wanted a separate version in the same style as Zenburn, better for low light situations or extended periods of use.
+
+desertedocean (high saturation version): http://www.vim.org/scripts/script.php?script_id=1404
+---------------------------------------------------------------------------------------------------------------------
+This color scheme has a dark greyish blue background and a blue number line and folding column, and has shades of tan (from orange to wheat) for highlighting syntax. This scheme is made for a GUI; terminal colors are still set to the defaults set by the Desert color scheme. I made this scheme using Desert as a starting point and looked to make it have similar qualities with OceanDeep and Zenburn as well. The final result uses mostly a sandy foreground with a fairly high contrast with the greyish blue background.
+
+Feedback is appreciated!
+Email comments or suggestions to axs221@gmail.com.
+Visit my homepage at http://axs221.1l.com. 
